@@ -1,0 +1,6 @@
+Waves crashed against the rocky shore, creating a soothing rhythm.
+1 1 2 3 5 8 # find relations bw elements, fibonacci
+102 511 515 # also find relations, each element satisfies some requirements
+875 1 364 # find some given values
+pacfgo # find a given string to decode and encode the input string to match another given string
+3 4 5 2 7 6 1 8 # sort dec odd nodes, inc even nodes
