@@ -1,4 +1,4 @@
-#CS230: System Programming KAIST
+# CS230: System Programming KAIST
 
 Lab1 (data): 73/73
 
